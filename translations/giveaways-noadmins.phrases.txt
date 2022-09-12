@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"Rejected"
+	{
+		"en" "[SM] Admins have been disallowed from participating in giveaways."
+		"es" "[SM] Los admins han sido restringidos de los sorteos."
+	}
+}
